@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Victor but you can call me Vic.
+- 👀 I’m interested in front-end development and also security.
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on websites.
+- 📫 How to reach me: You can text me in discord (vgperess) or instagram (vgperess)
+- 😄 Pronouns: He/Him
