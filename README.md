@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor but you can call me Vic.
 - 👀 I’m interested in front-end development and also security.
-- 🌱 I’m currently learning Kotlin and Android development.
-- 💞️ I'm currently working at a app.
-- 📫 How to reach me: You can text me in discord (victaas) or instagram (otaldo.vito)
+- 🌱 I’m currently learning Java, JS and Angular.
+- 💞️ I'm currently not working :(.
+- 📫 How to reach me: You can text me in discord (victaas) or instagram (heyy.vitoo)
 - 😄 Pronouns: He/Him
